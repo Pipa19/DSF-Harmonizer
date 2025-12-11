@@ -30,10 +30,6 @@ A2      20.2411        25679.30859
 P24     99.7791        5478.471191
 ```
 
-# DSF Harmonizer — Complete User Guide
-
-**DSF Harmonizer** is an interactive tool for cleaning, correcting, and analyzing DSF curves (`.gdsf`).
-
 # Main Features
 
 * Manual or automatic correction of DSF curve jumps (“steps”).
