@@ -12,22 +12,23 @@ From the terminal, navigate to the script directory and run:
 python3 dsf_step_fixer.py YOUR_FILE.gdsf
 ```
 
-Expected `.gdsf` format (tab-separated, no header):
+### Expected `.gdsf` format (tab-separated, no header)
 
-Well (tab) Temp (tab) Fluor.
-A1	20.0001	16588.30664
-A1	20.2411	16380.11035
-A1	20.4821	16248.78516
-A1	20.7232	15978.29785
-A1	20.9642	16185.03418
-A1	21.2052	15990.87012
-…	…	…
-A2	20.0001	25971.25586
-A2	20.2411	25679.30859
-…	…	…
-…	…	…
-P24	99.7791	5478.471191
-
+```text
+Well    Temperature    Fluorescence
+A1      20.0001        16588.30664
+A1      20.2411        16380.11035
+A1      20.4821        16248.78516
+A1      20.7232        15978.29785
+A1      20.9642        16185.03418
+A1      21.2052        15990.87012
+…       …              …
+A2      20.0001        25971.25586
+A2      20.2411        25679.30859
+…       …              …
+…       …              …
+P24     99.7791        5478.471191
+```
 
 # DSF Harmonizer — Complete User Guide
 
