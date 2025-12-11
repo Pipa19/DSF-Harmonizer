@@ -33,26 +33,6 @@ P24     99.7791        5478.471191
 # DSF Harmonizer — Complete User Guide
 
 **DSF Harmonizer** is an interactive tool for cleaning, correcting, and analyzing DSF curves (`.gdsf`).
-Although the window displays the title *DSF Harmonizer*, it is the same tool traditionally known as your *DSF Step Fixer*.
-
----
-
-## How to Run
-
-From the terminal, navigate to the script directory and run:
-
-```bash
-# The .gdsf file must be in the same directory (or provide a full path)
-python3 dsf_step_fixer.py YOUR_FILE.gdsf
-```
-
-Expected `.gdsf` format (tab-separated, no header):
-
-```
-Well    Temperature    Fluorescence
-```
-
----
 
 # Main Features
 
